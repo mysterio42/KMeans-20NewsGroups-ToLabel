@@ -80,7 +80,7 @@ fname: Data Source file name
 ```text
 clusters: How many Label we want 
 ```
-
+### CLI
 ```shell
  python run.py --fname newsgroups --clusters 2
 
