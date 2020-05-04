@@ -72,7 +72,7 @@ Labels: It gives you Labels!
 
 ## Train the KMeans model
 
-### Parameteres
+### Parameters
 
 ```text
 fname: Data Source file name
